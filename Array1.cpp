@@ -26,7 +26,8 @@ int main(){
     int n= sizeof(arr)/sizeof(arr[0]);
     printarray(arr, n);
     cout<<endl;
-    int sum = sumofarray(arr, n);
+    int sum = 0;
+    sum = sumofarray(arr, n);
     
     cout<<"The sum of array:"<<sum;
 
