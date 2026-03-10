@@ -5,14 +5,12 @@ This repository contains my Data Structures and Algorithms practice programs.
 ## Languages Used
 
 * C++
-* Python
 
 ## Programs Included
 
 * Linked List
 * String Reverse
 * Palindrome Checker
-* Stack Implementation
 
 ## Purpose
 
